@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Example05 - LowMan.unity
+    guid: 75e05c5681f54c84d92c7fcf306ce093
+  - enabled: 1
+    path: Assets/DropdownMenu.unity
+    guid: 36f5e440f434b41949544eba9882c0c5
+  - enabled: 1
+    path: Assets/test.unity
+    guid: d0633f6d6c5c4440e9fdc54e02b67338
+  m_configObjects: {}
